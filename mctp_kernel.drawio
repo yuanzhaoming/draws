@@ -100,9 +100,6 @@
         <mxCell id="27_sROKL2BgPW2q_i_c9-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FF6666;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;protocol字段必须为0&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="610" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="27_sROKL2BgPW2q_i_c9-53" edge="1" parent="1" source="27_sROKL2BgPW2q_i_c9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="27_sROKL2BgPW2q_i_c9-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;if (sock-&amp;gt;type != SOCK_DGRAM)&lt;br/&gt;&#x9;&#x9;return -ESOCKTNOSUPPORT;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="440" y="710" as="geometry" />
         </mxCell>
@@ -113,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;sk = sk_alloc(net, PF_MCTP, GFP_KERNEL, proto, kern);&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="440" y="780" as="geometry" />
+          <mxGeometry height="30" width="160" x="440" y="840" as="geometry" />
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-49" edge="1" parent="1" source="27_sROKL2BgPW2q_i_c9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="27_sROKL2BgPW2q_i_c9-43">
           <mxGeometry relative="1" as="geometry" />
@@ -122,28 +119,31 @@
           <mxGeometry height="130" width="230" x="130" y="730" as="geometry" />
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;if (sk-&amp;gt;sk_prot-&amp;gt;init)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&#x9;&lt;/span&gt;rc = sk-&amp;gt;sk_prot-&amp;gt;init(sk);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="440" y="840" as="geometry" />
+          <mxGeometry height="30" width="160" x="440" y="910" as="geometry" />
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FF6666;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;实际执行&lt;/font&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;mctp_sk_init()&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="620" y="840" as="geometry" />
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-55" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="880" as="sourcePoint" />
-            <mxPoint x="680" y="880" as="targetPoint" />
+            <mxPoint x="80" y="960" as="sourcePoint" />
+            <mxPoint x="680" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="27_sROKL2BgPW2q_i_c9-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#99FFFF;align=center;verticalAlign=middle;rounded=0;" value="应用层" vertex="1">
-          <mxGeometry height="30" width="60" x="80" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="27_sROKL2BgPW2q_i_c9-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;bind( )&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="240" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="27_sROKL2BgPW2q_i_c9-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#99FFFF;align=center;verticalAlign=middle;rounded=0;" value="内核层" vertex="1">
           <mxGeometry height="30" width="60" x="80" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="27_sROKL2BgPW2q_i_c9-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;__sys_bind(fd, umyaddr, addrlen)&lt;/font&gt;" vertex="1">
+        <mxCell id="27_sROKL2BgPW2q_i_c9-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;bind( )&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="240" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#99FFFF;align=center;verticalAlign=middle;rounded=0;" value="内核层" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;__sys_bind(fd, umyaddr, addrlen)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="240" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;sock-&amp;gt;state = SS_UNCONNECTED;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;sock-&amp;gt;ops = ops;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="440" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
