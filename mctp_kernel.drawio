@@ -19,6 +19,9 @@
         <mxCell id="27_sROKL2BgPW2q_i_c9-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;net\mctp\af_mctp.c&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="100" x="350" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;将mctp_pf信息注册到内核数组net_families[ops-&amp;gt;family]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="490" y="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
