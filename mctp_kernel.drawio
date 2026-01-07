@@ -40,6 +40,15 @@
         <mxCell id="27_sROKL2BgPW2q_i_c9-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;__sys_socket(family, type, protocol)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="240" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;__sys_socket_create(family, type,protocol);&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="240" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;sock_create(family, type, protocol, &amp;amp;sock);&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="240" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="27_sROKL2BgPW2q_i_c9-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;__sock_create( ... )&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="240" y="660" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
