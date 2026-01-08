@@ -289,13 +289,13 @@
         <mxCell id="UF2I-8bobVumGOoAyu2I-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="skb-&amp;gt;len" vertex="1">
           <mxGeometry height="30" width="60" x="312" y="1730" as="geometry" />
         </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;mctp_header&lt;/font&gt;" vertex="1">
+        <mxCell id="UF2I-8bobVumGOoAyu2I-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;mctp_header(4字节)&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="210" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".network_header" vertex="1">
           <mxGeometry height="30" width="124" x="190" y="1739" as="geometry" />
         </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;mctp_pcie_vdm_hdr&lt;/font&gt;" vertex="1">
+        <mxCell id="UF2I-8bobVumGOoAyu2I-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;mctp_pcie_vdm_hdr&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;(12字节)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="140" y="1780" as="geometry" />
         </mxCell>
       </root>
