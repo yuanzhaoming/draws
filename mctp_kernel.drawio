@@ -160,9 +160,6 @@
         <mxCell id="UF2I-8bobVumGOoAyu2I-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="120" x="400" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="1200" as="geometry" />
-        </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".head" vertex="1">
           <mxGeometry height="30" width="60" x="110" y="1170" as="geometry" />
         </mxCell>
@@ -183,9 +180,6 @@
         </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="120" x="400" y="1321" as="geometry" />
-        </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="1321" as="geometry" />
         </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".head" vertex="1">
           <mxGeometry height="30" width="60" x="110" y="1291" as="geometry" />
@@ -214,9 +208,6 @@
         <mxCell id="UF2I-8bobVumGOoAyu2I-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="应用层数据len" vertex="1">
           <mxGeometry height="40" width="120" x="410" y="1470" as="geometry" />
         </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="530" y="1470" as="geometry" />
-        </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".head" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="1440" as="geometry" />
         </mxCell>
@@ -243,9 +234,6 @@
         </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="应用层数据len" vertex="1">
           <mxGeometry height="40" width="120" x="410" y="1630" as="geometry" />
-        </mxCell>
-        <mxCell id="UF2I-8bobVumGOoAyu2I-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="530" y="1630" as="geometry" />
         </mxCell>
         <mxCell id="UF2I-8bobVumGOoAyu2I-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".head" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="1600" as="geometry" />
