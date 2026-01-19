@@ -323,16 +323,16 @@
           <mxGeometry height="30" width="60" x="750" y="1291" as="geometry" />
         </mxCell>
         <mxCell id="YrHmn00cVRnViEDLq1RF-20" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;size=0.5;" value="" vertex="1">
-          <mxGeometry height="20" width="280" x="640" y="1361" as="geometry" />
+          <mxGeometry height="20" width="330" x="640" y="1361" as="geometry" />
         </mxCell>
         <mxCell id="YrHmn00cVRnViEDLq1RF-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="tail" vertex="1">
           <mxGeometry height="30" width="60" x="750" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="YrHmn00cVRnViEDLq1RF-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4字节头部+数据部分" vertex="1">
-          <mxGeometry height="39" width="140" x="780" y="1321" as="geometry" />
+          <mxGeometry height="39" width="190" x="780" y="1321" as="geometry" />
         </mxCell>
         <mxCell id="YrHmn00cVRnViEDLq1RF-23" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;" value="" vertex="1">
-          <mxGeometry height="20" width="140" x="780" y="1300" as="geometry" />
+          <mxGeometry height="20" width="190" x="780" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="YrHmn00cVRnViEDLq1RF-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="skb-&amp;gt;len" vertex="1">
           <mxGeometry height="30" width="60" x="820" y="1271" as="geometry" />
