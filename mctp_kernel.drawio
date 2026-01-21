@@ -397,20 +397,25 @@
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存镜像" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="2120" as="geometry" />
         </mxCell>
-        <mxCell id="5OFaR_EmmhEMBqvwFWKu-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.581;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" target="5OFaR_EmmhEMBqvwFWKu-1" value="">
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="2190" />
               <mxPoint x="500" y="2190" />
             </Array>
             <mxPoint x="390" y="2190" as="sourcePoint" />
-            <mxPoint x="440" y="2140" as="targetPoint" />
+            <mxPoint x="570" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.564;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" target="5OFaR_EmmhEMBqvwFWKu-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="570" y="2190" as="sourcePoint" />
             <mxPoint x="620" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-21" edge="1" parent="1" source="5OFaR_EmmhEMBqvwFWKu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="2023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="crontab" vertex="1">
@@ -423,7 +428,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文件" vertex="1">
-          <mxGeometry height="50" width="50" x="600" y="2000" as="geometry" />
+          <mxGeometry height="50" width="50" x="590" y="2000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
