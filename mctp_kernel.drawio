@@ -474,6 +474,9 @@
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="out" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="2420" as="geometry" />
         </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#CCCCFF;align=center;verticalAlign=middle;rounded=0;" value="缓存镜像" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="2338" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
