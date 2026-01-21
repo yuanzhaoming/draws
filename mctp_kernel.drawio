@@ -516,6 +516,45 @@
         <mxCell id="5OFaR_EmmhEMBqvwFWKu-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#CCCCFF;align=center;verticalAlign=middle;rounded=0;" value="缓存镜像" vertex="1">
           <mxGeometry height="30" width="60" x="100" y="2460" as="geometry" />
         </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="7" vertex="1">
+          <mxGeometry height="40" width="70" x="200" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2" vertex="1">
+          <mxGeometry height="40" width="70" x="270" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
+          <mxGeometry height="40" width="70" x="340" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4" vertex="1">
+          <mxGeometry height="40" width="70" x="410" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5" vertex="1">
+          <mxGeometry height="40" width="70" x="480" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6" vertex="1">
+          <mxGeometry height="40" width="70" x="550" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="269" y="2680" as="sourcePoint" />
+            <mxPoint x="269" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="in" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="2672" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="339" y="2680" as="sourcePoint" />
+            <mxPoint x="339" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="out" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="2672" as="geometry" />
+        </mxCell>
+        <mxCell id="5OFaR_EmmhEMBqvwFWKu-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#CCCCFF;align=center;verticalAlign=middle;rounded=0;" value="缓存镜像" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="2590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
