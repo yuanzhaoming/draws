@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rAlpYqFW_1SKZqBpGAk9-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;sdbusplus::server::manager_t objManager(bus, &lt;/font&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;SOFTWARE_OBJPATH);&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="120" x="160" y="40" as="geometry" />
+          <mxGeometry height="20" width="320" x="40" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
