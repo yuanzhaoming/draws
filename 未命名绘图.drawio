@@ -181,11 +181,11 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c~d 受保护地址范围，非解锁条件下数据不允许写入" vertex="1">
           <mxGeometry height="30" width="163" x="520" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" value="spi flash" vertex="1">
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" value="emmc主控芯片" vertex="1">
           <mxGeometry height="160" width="120" x="358" y="1245" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="emmc" vertex="1">
-          <mxGeometry height="30" width="60" x="358" y="1215" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非易失芯片" vertex="1">
+          <mxGeometry height="30" width="76" x="358" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="" vertex="1">
           <mxGeometry height="160" width="120" x="158" y="1245" as="geometry" />
