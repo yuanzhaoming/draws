@@ -196,8 +196,8 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="" vertex="1">
           <mxGeometry height="160" width="120" x="358" y="1445" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="spi flash" vertex="1">
-          <mxGeometry height="30" width="60" x="358" y="1415" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非易失芯片" vertex="1">
+          <mxGeometry height="30" width="112" x="358" y="1415" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-65" edge="1" parent="1" source="u3wmkAW3NZWxTe-wE9P7-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="u3wmkAW3NZWxTe-wE9P7-80">
           <mxGeometry relative="1" as="geometry">
@@ -325,8 +325,8 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BMC" vertex="1">
           <mxGeometry height="30" width="60" x="158" y="1655" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="spi flash" vertex="1">
-          <mxGeometry height="30" width="60" x="358" y="1655" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非易失芯片" vertex="1">
+          <mxGeometry height="30" width="113" x="358" y="1655" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=33;glass=0;labelBackgroundColor=#FF6666;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;x&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="288" y="1745" as="geometry" />
