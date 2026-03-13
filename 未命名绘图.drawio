@@ -22,6 +22,13 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="spi flash" vertex="1">
           <mxGeometry height="30" width="60" x="320" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-54" edge="1" parent="1" source="u3wmkAW3NZWxTe-wE9P7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="u3wmkAW3NZWxTe-wE9P7-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="bmc根据需要配置受保护地址范围，并将数据信息记录到该芯片的存储位置中，同时bmc内存中也有一份" vertex="1">
           <mxGeometry height="160" width="120" x="120" y="240" as="geometry" />
         </mxCell>
@@ -156,17 +163,20 @@
             <mxPoint x="520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="地址信息" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="610" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保护地址信息" vertex="1">
+          <mxGeometry height="30" width="76" x="530" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="地址信息" vertex="1">
-          <mxGeometry height="30" width="60" x="524" y="366" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保护地址信息" vertex="1">
+          <mxGeometry height="30" width="81" x="524" y="366" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="525" y="378" as="sourcePoint" />
             <mxPoint x="440" y="333" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保存保护地址范围" vertex="1">
+          <mxGeometry height="30" width="60" x="246" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
