@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="bmc写入受保护地址范围数据" vertex="1">
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="bmc将数据写入受保护地址范围数据" vertex="1">
           <mxGeometry height="160" width="120" x="158" y="1685" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" value="" vertex="1">
@@ -355,8 +355,14 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="d~e 描述保护地址c~d 的地址范围信息" vertex="1">
           <mxGeometry height="30" width="164" x="562" y="1809" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c~d 受保护地址范围，非解锁条件下数据不允许写入" vertex="1">
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c~d 受保护地址范围，被芯片拒绝写入" vertex="1">
           <mxGeometry height="30" width="163" x="558" y="1745" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-110" edge="1" parent="1" source="u3wmkAW3NZWxTe-wE9P7-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.108;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" target="u3wmkAW3NZWxTe-wE9P7-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Y" vertex="1">
+          <mxGeometry height="30" width="60" x="278" y="1708" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
