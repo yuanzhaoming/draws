@@ -178,6 +178,9 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保存保护地址范围" vertex="1">
           <mxGeometry height="30" width="60" x="246" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A~B地址内容均可被访问" vertex="1">
+          <mxGeometry height="30" width="161" x="464" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
