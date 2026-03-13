@@ -86,8 +86,8 @@
             <mxPoint x="650" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="受保护地址范围" vertex="1">
-          <mxGeometry height="30" width="60" x="520" y="310" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c~d 受保护地址范围，非解锁条件下数据不允许写入" vertex="1">
+          <mxGeometry height="30" width="163" x="520" y="310" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-28" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -145,9 +145,6 @@
             <mxPoint x="650" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="受保护地址范围" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="550" as="geometry" />
-        </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BMC" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="450" as="geometry" />
         </mxCell>
@@ -163,11 +160,8 @@
             <mxPoint x="520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保护地址信息" vertex="1">
-          <mxGeometry height="30" width="76" x="530" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="保护地址信息" vertex="1">
-          <mxGeometry height="30" width="81" x="524" y="366" as="geometry" />
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="d~e 描述保护地址c~d 的地址范围信息" vertex="1">
+          <mxGeometry height="30" width="164" x="524" y="366" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -180,6 +174,12 @@
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A~B地址内容均可被访问" vertex="1">
           <mxGeometry height="30" width="161" x="464" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="d~e 描述保护地址c~d 的地址范围信息" vertex="1">
+          <mxGeometry height="30" width="164" x="524" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c~d 受保护地址范围，非解锁条件下数据不允许写入" vertex="1">
+          <mxGeometry height="30" width="163" x="520" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
