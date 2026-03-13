@@ -10,7 +10,7 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="spi flash" vertex="1">
           <mxGeometry height="30" width="60" x="320" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="u3wmkAW3NZWxTe-wE9P7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BMC 未记录受保护空间，并且" vertex="1">
           <mxGeometry height="160" width="120" x="120" y="40" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BMC" vertex="1">
@@ -38,16 +38,22 @@
           <mxGeometry height="60" width="120" x="320" y="340" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="270" as="geometry" />
+          <mxGeometry height="30" width="60" x="420" y="230" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="330" as="geometry" />
+          <mxGeometry height="30" width="60" x="420" y="380" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
-          <mxGeometry height="30" width="60" x="430" y="30" as="geometry" />
+          <mxGeometry height="30" width="60" x="420" y="30" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
-          <mxGeometry height="30" width="60" x="440" y="170" as="geometry" />
+          <mxGeometry height="30" width="60" x="420" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="u3wmkAW3NZWxTe-wE9P7-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="d" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
