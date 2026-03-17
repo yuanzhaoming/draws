@@ -435,8 +435,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;rounded=0;" value="循环操作" vertex="1">
-          <mxGeometry height="30" width="84" x="745" y="3214" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;rounded=0;" value="快速循环操作，很容易发生创建失败，改进后基本上未见失败发生" vertex="1">
+          <mxGeometry height="72" width="113" x="745" y="3214" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-167" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" target="X5wu8MR4ORQ3O4vnwKrm-161" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
