@@ -782,11 +782,17 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-282" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="21" width="14" x="648.5" y="5515.5" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开发PSU固件升级，发现BMC有需要适配不同厂商的可能性，推动使用标准升级文档" vertex="1">
-          <mxGeometry height="49" width="286" x="672.5" y="5587" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="review并提出社区代码的优化意见。" vertex="1">
+          <mxGeometry height="49" width="224" x="658" y="5580.5" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-285" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="21" width="14" x="652" y="5594.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-286" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="沟通并完善io 部件信息列表" vertex="1">
+          <mxGeometry height="49" width="163" x="672" y="5661" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-287" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="21" width="14" x="655" y="5673" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
