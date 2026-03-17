@@ -717,7 +717,7 @@
             <mxRectangle height="62" width="218" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-258" parent="X5wu8MR4ORQ3O4vnwKrm-255" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="单独设备管理模块出发，以AI 赋能，预测raid卡/盘的异常" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-258" parent="X5wu8MR4ORQ3O4vnwKrm-255" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="单独设备管理模块，以AI 赋能，预测raid卡/盘的异常" vertex="1">
           <mxGeometry height="62" width="216" x="434" as="geometry">
             <mxRectangle height="62" width="216" as="alternateBounds" />
           </mxGeometry>
