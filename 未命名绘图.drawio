@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="201" width="679" x="194" y="3139" as="geometry" />
+          <mxGeometry height="201" width="679" x="113" y="3134" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="112" width="660" x="167" y="2738" as="geometry" />
@@ -417,40 +417,40 @@
           <mxGeometry height="30" width="757" y="60" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-160" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="231" y="3201" as="geometry" />
+          <mxGeometry height="60" width="30" x="150" y="3196" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="打开raid管理工具,webui/onecli/bios" vertex="1">
-          <mxGeometry height="67" width="129" x="335" y="3201" as="geometry" />
+          <mxGeometry height="67" width="129" x="254" y="3196" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="创建/删除raid或者设置raid操作" vertex="1">
-          <mxGeometry height="67" width="129" x="562" y="3201" as="geometry" />
+          <mxGeometry height="67" width="129" x="481" y="3196" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-165" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#f9f7ed;strokeColor=#FF99FF;" target="X5wu8MR4ORQ3O4vnwKrm-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="627" y="3172" />
-              <mxPoint x="755" y="3172" />
-              <mxPoint x="755" y="3304" />
-              <mxPoint x="627" y="3304" />
+              <mxPoint x="546" y="3167" />
+              <mxPoint x="674" y="3167" />
+              <mxPoint x="674" y="3299" />
+              <mxPoint x="546" y="3299" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;rounded=0;" value="快速循环操作，很容易发生创建失败，改进后基本上未见失败发生" vertex="1">
-          <mxGeometry height="72" width="113" x="745" y="3214" as="geometry" />
+          <mxGeometry height="72" width="113" x="664" y="3209" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-167" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" target="X5wu8MR4ORQ3O4vnwKrm-161" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="292" y="3235" />
+              <mxPoint x="211" y="3230" />
             </Array>
-            <mxPoint x="249" y="3235" as="sourcePoint" />
-            <mxPoint x="299" y="3185" as="targetPoint" />
+            <mxPoint x="168" y="3230" as="sourcePoint" />
+            <mxPoint x="218" y="3180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-168" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" target="X5wu8MR4ORQ3O4vnwKrm-162" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="462" y="3235" as="sourcePoint" />
-            <mxPoint x="512" y="3185" as="targetPoint" />
+            <mxPoint x="381" y="3230" as="sourcePoint" />
+            <mxPoint x="431" y="3180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
