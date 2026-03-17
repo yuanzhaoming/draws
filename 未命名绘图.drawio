@@ -8,7 +8,7 @@
           <mxGeometry height="184" width="596" x="180" y="4267" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="202" width="594" x="180" y="4057" as="geometry" />
+          <mxGeometry height="187" width="594" x="180" y="4072" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="201" width="679" x="113" y="3134" as="geometry" />
@@ -635,14 +635,14 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" value="BMC获取物理盘信息" vertex="1">
           <mxGeometry height="60" width="120" x="213" y="4324.5" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-239" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;优化通信效率&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="596" x="178" y="4481" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-239" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;反馈与推动标准化文档输出&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="643" x="177" y="4468" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-240" parent="X5wu8MR4ORQ3O4vnwKrm-239" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1. 将I2C 通信替换为mctp 通信，API 通信效率大部分优化到原来的1/10 ~ 1/6&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="596" y="30" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-240" parent="X5wu8MR4ORQ3O4vnwKrm-239" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1. BMC给PSU固件升级，原来可能BMC会差异化适配各种厂商，需要改动升级框架，bmc工作量比较大，反馈与推动部门间标准化升级框架固定，只有部分延时的修改的适配。显著降低BMC的工作量&lt;/font&gt;" vertex="1">
+          <mxGeometry height="59" width="643" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-241" parent="X5wu8MR4ORQ3O4vnwKrm-239" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2. 替换获取逻辑盘信息，将每一次获取逻辑盘配置修改为整体获取一次，平均效率为 1/n&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="596" y="60" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-241" parent="X5wu8MR4ORQ3O4vnwKrm-239" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2. BMC适配厂商smart id以及厂商id，需要一个个盘适配，带来开发加测试工作量极大，反馈并推动io 部门输出文档定义smart id的信息以及厂商id. bmc只需要代码根据文档定义然后加入到代码中，为所有项目的适配提供可靠来源，降低bmc工作量。&lt;/font&gt;" vertex="1">
+          <mxGeometry height="56" width="643" y="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
