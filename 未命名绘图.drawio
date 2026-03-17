@@ -741,7 +741,7 @@
           <mxGeometry height="308.87" width="353.76" x="173" y="5082" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-266" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="基于社区开源openbmc方案，完善mctp over&amp;nbsp;&lt;div&gt;pcie框架建设，并加入到当前的G6项目，&lt;/div&gt;&lt;div&gt;对标ami，mctp over pcie 模块功能完成度90%，模块功能&lt;/div&gt;&lt;div&gt;完成60%&lt;/div&gt;" vertex="1">
-          <mxGeometry height="111" width="469" x="505" y="5129" as="geometry" />
+          <mxGeometry height="115" width="469" x="505" y="5129" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-267" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="与数渡一起联合调试初版pcie switch，首版采用i2c&amp;nbsp;&lt;div&gt;通信方式，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为其第二代mctp over pcie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;流片提供基础技术支撑。&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="99" width="389" x="515" y="5309" as="geometry" />
