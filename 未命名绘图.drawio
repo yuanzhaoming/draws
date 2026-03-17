@@ -794,23 +794,23 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-287" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="21" width="14" x="655" y="5673" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;国产switch导入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;辅助mctp over i2c 初期验证保证流片mctp over pcie功能性无问题&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="146" x="145" y="6009" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;国产switch导入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;辅助mctp over i2c 初期验证保证流片mctp over pcie功能性无问题&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="148" width="185" x="102" y="6005" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-2" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="199" y="6024" as="geometry" />
+          <mxGeometry height="34" width="34" x="175" y="6020" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备代码管理问题&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="146" x="379.5" y="6009" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;国产switch导入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;辅助mctp over i2c 初期验证保证流片mctp over pcie功能性无问题&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="148" width="185" x="388" y="6005" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-4" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="436.5" y="6027" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-10" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="461" y="6020" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备代码管理问题&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="146" x="610" y="6009" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;国产switch导入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;辅助mctp over i2c 初期验证保证流片mctp over pcie功能性无问题&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="148" width="185" x="675.5" y="6002" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-6" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="667" y="6027" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-12" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="748.5" y="6017" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
