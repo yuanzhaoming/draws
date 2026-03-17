@@ -552,43 +552,82 @@
           <mxGeometry height="26" width="696" x="104" y="3967" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A厂家PSU" vertex="1">
-          <mxGeometry height="41" width="121" x="357" y="4130" as="geometry" />
+          <mxGeometry height="41" width="121" x="573" y="4081" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="B厂家PSU" vertex="1">
-          <mxGeometry height="41" width="121" x="357" y="4193" as="geometry" />
+          <mxGeometry height="41" width="121" x="573" y="4144" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C厂家PSU" vertex="1">
-          <mxGeometry height="41" width="121" x="357" y="4255" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-212" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="76" y="4194" as="geometry" />
+          <mxGeometry height="41" width="121" x="573" y="4206" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-214" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-209" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="110" y="4214" as="sourcePoint" />
-            <mxPoint x="160" y="4164" as="targetPoint" />
+            <mxPoint x="326" y="4165" as="sourcePoint" />
+            <mxPoint x="376" y="4115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-215" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CRPS升级协议" vertex="1">
-          <mxGeometry height="30" width="104" x="240" y="4135.5" as="geometry" />
+          <mxGeometry height="30" width="104" x="456" y="4086.5" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-217" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-210" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="110" y="4215" as="sourcePoint" />
-            <mxPoint x="160" y="4165" as="targetPoint" />
+            <mxPoint x="326" y="4166" as="sourcePoint" />
+            <mxPoint x="376" y="4116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-219" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-211" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="110" y="4214" as="sourcePoint" />
-            <mxPoint x="156" y="4305" as="targetPoint" />
+            <mxPoint x="326" y="4165" as="sourcePoint" />
+            <mxPoint x="372" y="4256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
-          <mxGeometry height="30" width="110" x="243" y="4188" as="geometry" />
+          <mxGeometry height="30" width="110" x="459" y="4139" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
-          <mxGeometry height="30" width="110" x="250" y="4234" as="geometry" />
+          <mxGeometry height="30" width="110" x="466" y="4185" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
+          <mxGeometry height="60" width="120" x="208" y="4134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A厂家PSU" vertex="1">
+          <mxGeometry height="41" width="121" x="569.5" y="4311" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="B厂家PSU" vertex="1">
+          <mxGeometry height="41" width="121" x="569.5" y="4374" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-227" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C厂家PSU" vertex="1">
+          <mxGeometry height="41" width="121" x="569.5" y="4436" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-228" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-225" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="322.5" y="4395" as="sourcePoint" />
+            <mxPoint x="372.5" y="4345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-229" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CRPS升级协议" vertex="1">
+          <mxGeometry height="30" width="104" x="452.5" y="4316.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-230" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-226" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="322.5" y="4396" as="sourcePoint" />
+            <mxPoint x="372.5" y="4346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-231" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-227" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="322.5" y="4395" as="sourcePoint" />
+            <mxPoint x="368.5" y="4486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
+          <mxGeometry height="30" width="110" x="455.5" y="4369" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
+          <mxGeometry height="30" width="110" x="462.5" y="4415" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
+          <mxGeometry height="60" width="120" x="204.5" y="4364.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
