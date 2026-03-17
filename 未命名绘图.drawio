@@ -794,6 +794,24 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-287" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="21" width="14" x="655" y="5673" as="geometry" />
         </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;国产switch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="146" x="145" y="6009" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-2" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="204" y="6022" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备代码管理问题&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="146" x="379.5" y="6009" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-4" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="436.5" y="6027" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备代码管理问题&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="146" x="610" y="6009" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-6" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="667" y="6027" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
