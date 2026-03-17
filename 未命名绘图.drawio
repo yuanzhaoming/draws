@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="v_jIjj6gfQj-iaVgs8wT">
-    <mxGraphModel dx="857" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="112" width="660" x="161" y="2055" as="geometry" />
+          <mxGeometry height="112" width="660" x="167" y="2738" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="70" width="656" x="164" y="1948" as="geometry" />
+          <mxGeometry height="70" width="656" x="170" y="2631" as="geometry" />
         </mxCell>
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" value="" vertex="1">
           <mxGeometry height="160" width="120" x="320" y="40" as="geometry" />
@@ -345,64 +345,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="获取控制器信息" vertex="1">
-          <mxGeometry height="53" width="131" x="174" y="1961" as="geometry" />
+          <mxGeometry height="53" width="131" x="180" y="2644" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-7" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="获取物理盘信息" vertex="1">
-          <mxGeometry height="53" width="135" x="336" y="1961" as="geometry" />
+          <mxGeometry height="53" width="135" x="342" y="2644" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="获取逻辑盘信息" vertex="1">
-          <mxGeometry height="53" width="139" x="635" y="1961" as="geometry" />
+          <mxGeometry height="53" width="139" x="641" y="2644" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-15" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="获取单个逻辑盘配置信息" vertex="1">
-          <mxGeometry height="41" width="136" x="645" y="2074" as="geometry" />
+          <mxGeometry height="41" width="136" x="651" y="2757" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="获取博通RAID卡信息流程" vertex="1">
-          <mxGeometry height="30" width="142" x="16" y="1971" as="geometry" />
+          <mxGeometry height="30" width="142" x="22" y="2654" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="获取单个逻辑盘的流程" vertex="1">
-          <mxGeometry height="30" width="138.5" x="15" y="2079.5" as="geometry" />
+          <mxGeometry height="30" width="138.5" x="21" y="2762.5" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="获取单个逻辑盘信息" vertex="1">
-          <mxGeometry height="47" width="135" x="335" y="2071" as="geometry" />
+          <mxGeometry height="47" width="135" x="341" y="2754" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FF66B3;align=center;verticalAlign=middle;rounded=0;" value="单个命令执行平均1s的时间" vertex="1">
-          <mxGeometry height="30" width="141" x="642.5" y="2125" as="geometry" />
+          <mxGeometry height="30" width="141" x="648.5" y="2808" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-18" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-8" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="591" y="2071" as="sourcePoint" />
-            <mxPoint x="542" y="1988" as="targetPoint" />
+            <mxPoint x="597" y="2754" as="sourcePoint" />
+            <mxPoint x="548" y="2671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="改进" vertex="1">
-          <mxGeometry height="30" width="60" x="609.5" y="2029" as="geometry" />
+          <mxGeometry height="30" width="60" x="615.5" y="2712" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;总体流程改为总体获取一次，显著降低获取信息时间，为 1/n(盘数)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="161" x="474" y="1952" as="geometry" />
+          <mxGeometry height="30" width="161" x="480" y="2635" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-22" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=3;" target="X5wu8MR4ORQ3O4vnwKrm-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-26" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#ffff88;strokeColor=#33FF33;" target="X5wu8MR4ORQ3O4vnwKrm-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="430" y="2212" as="sourcePoint" />
-            <mxPoint x="470" y="2131" as="targetPoint" />
+            <mxPoint x="436" y="2895" as="sourcePoint" />
+            <mxPoint x="476" y="2814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;text-align: left; font-size: 14px;&quot;&gt;note:&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;1.940-8i raid卡会将每个物理盘盘都当作逻辑盘&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;2.其余raid卡在创建逻辑盘会认为是逻辑盘&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="458" x="16" y="2172" as="geometry" />
+          <mxGeometry height="80" width="458" x="22" y="2855" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.358;exitY=1.068;exitDx=0;exitDy=0;strokeWidth=5;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" target="X5wu8MR4ORQ3O4vnwKrm-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="693.762" y="2014.004" as="sourcePoint" />
-            <mxPoint x="620" y="2244.4" as="targetPoint" />
+            <mxPoint x="699.762" y="2697.004" as="sourcePoint" />
+            <mxPoint x="626" y="2927.4" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="brcm raid卡" vertex="1">
+          <mxGeometry height="108" width="120" x="195" y="2478" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
