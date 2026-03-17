@@ -462,13 +462,13 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="kernel(mcpt over pcie, mctp over i2c等驱动程序，以及mctp 协议栈)" vertex="1">
           <mxGeometry height="51" width="683" x="106" y="3736" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="brcm raid/hba管理" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="brcm raid/hba管理，pldm&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;固件更新&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="113" y="3545" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="网卡" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="网卡,pldm固件更新" vertex="1">
           <mxGeometry height="60" width="120" x="416.5" y="3545" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="microchip raid/hba管理" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="microchip raid/hba管理，pldm固件更新" vertex="1">
           <mxGeometry height="60" width="120" x="260" y="3545" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="mctpd" vertex="1">
