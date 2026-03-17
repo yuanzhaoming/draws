@@ -676,7 +676,7 @@
             <mxRectangle height="60" width="216" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-249" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="知识面广度与深度: 需要对模块的深度以及广度做扩展，反哺服务项目上需求的技术落地以及产品化" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-249" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="知识面广度与深度: 需要对模块的深度以及广度做扩展，反哺项目上需求的产品化" vertex="1">
           <mxGeometry height="60" width="218" x="216" as="geometry">
             <mxRectangle height="60" width="218" as="alternateBounds" />
           </mxGeometry>
