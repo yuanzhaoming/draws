@@ -339,16 +339,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取控制器信息" vertex="1">
-          <mxGeometry height="53" width="131" x="79" y="1955" as="geometry" />
+          <mxGeometry height="53" width="131" x="240" y="1962" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-7" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取物理盘信息" vertex="1">
-          <mxGeometry height="53" width="135" x="273" y="1955" as="geometry" />
+          <mxGeometry height="53" width="135" x="434" y="1962" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取逻辑盘信息" vertex="1">
-          <mxGeometry height="53" width="139" x="471" y="1955" as="geometry" />
+          <mxGeometry height="53" width="139" x="632" y="1962" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="41" width="120" x="242" y="2044" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取RAID卡信息流程" vertex="1">
+          <mxGeometry height="30" width="150" x="63" y="1973.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
