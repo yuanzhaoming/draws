@@ -884,7 +884,7 @@
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="2" vertex="1">
           <mxGeometry height="30" width="26" x="521" y="6893" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-49" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-49" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="215.95" y="6796" as="sourcePoint" />
             <mxPoint x="216" y="6858" as="targetPoint" />
