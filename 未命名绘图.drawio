@@ -668,7 +668,7 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-247" parent="X5wu8MR4ORQ3O4vnwKrm-242" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="60" width="650" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-248" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-248" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="对于模块的问题定位能力较强" vertex="1">
           <mxGeometry height="60" width="216" as="geometry">
             <mxRectangle height="60" width="216" as="alternateBounds" />
           </mxGeometry>
@@ -686,7 +686,7 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-251" parent="X5wu8MR4ORQ3O4vnwKrm-242" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
           <mxGeometry height="58" width="650" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-252" parent="X5wu8MR4ORQ3O4vnwKrm-251" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-252" parent="X5wu8MR4ORQ3O4vnwKrm-251" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="对于新知识的学习能力较强" vertex="1">
           <mxGeometry height="58" width="216" as="geometry">
             <mxRectangle height="58" width="216" as="alternateBounds" />
           </mxGeometry>
