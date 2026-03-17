@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="362" width="462" x="173" y="5486" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
+          <mxGeometry height="356" width="400" x="193" y="5493" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="184" width="643" x="180" y="4267" as="geometry" />
@@ -754,24 +754,39 @@
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-269" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="202" y="5786" as="sourcePoint" />
-            <mxPoint x="557" y="5547" as="targetPoint" />
+            <mxPoint x="217" y="5843" as="sourcePoint" />
+            <mxPoint x="554" y="5498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-270" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="541" y="5788" as="sourcePoint" />
-            <mxPoint x="241" y="5553" as="targetPoint" />
+            <mxPoint x="571" y="5838" as="sourcePoint" />
+            <mxPoint x="213" y="5504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-271" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-271" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="BMC" vertex="1">
           <mxGeometry height="80" width="120" x="337" y="5530" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-272" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="DC/PSU" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-272" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="DC/PSU" vertex="1">
           <mxGeometry height="80" width="120" x="217" y="5622" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-273" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="IO" vertex="1">
-          <mxGeometry height="80" width="120" x="309.5" y="5714" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-273" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="IO" vertex="1">
+          <mxGeometry height="80" width="120" x="328" y="5729" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-276" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="开源社区" vertex="1">
+          <mxGeometry height="80" width="120" x="441.5" y="5627" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-279" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开发PSU固件升级，发现BMC有需要适配不同厂商的可能性，推动使用标准升级文档" vertex="1">
+          <mxGeometry height="49" width="286" x="669" y="5508" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-282" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="21" width="14" x="648.5" y="5515.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开发PSU固件升级，发现BMC有需要适配不同厂商的可能性，推动使用标准升级文档" vertex="1">
+          <mxGeometry height="49" width="286" x="672.5" y="5587" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-285" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="21" width="14" x="652" y="5594.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
