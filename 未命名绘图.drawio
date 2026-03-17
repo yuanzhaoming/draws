@@ -460,13 +460,16 @@
           <mxGeometry height="30" width="683" y="30" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="kernel" vertex="1">
-          <mxGeometry height="51" width="539" x="196" y="3659" as="geometry" />
+          <mxGeometry height="51" width="539" x="197" y="3709" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="microchip/brcm raid/hba" vertex="1">
-          <mxGeometry height="60" width="120" x="196" y="3494" as="geometry" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="brcm raid/hba管理" vertex="1">
+          <mxGeometry height="60" width="120" x="197" y="3544" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="网卡" vertex="1">
-          <mxGeometry height="60" width="120" x="373" y="3494" as="geometry" />
+          <mxGeometry height="60" width="120" x="500.5" y="3544" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="microchip raid/hba管理" vertex="1">
+          <mxGeometry height="60" width="120" x="344" y="3544" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
