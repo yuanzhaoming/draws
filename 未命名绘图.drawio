@@ -660,7 +660,7 @@
             <mxRectangle height="62" width="218" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-246" parent="X5wu8MR4ORQ3O4vnwKrm-243" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-246" parent="X5wu8MR4ORQ3O4vnwKrm-243" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="职业发展规划" vertex="1">
           <mxGeometry height="62" width="216" x="434" as="geometry">
             <mxRectangle height="62" width="216" as="alternateBounds" />
           </mxGeometry>
