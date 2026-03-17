@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;补充日志:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;BMC 自设计日志系统，但是仍然有&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;需求有场景需要查看串口日志。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="88" width="310" x="113" y="6944" as="geometry" />
+          <mxGeometry height="100" width="309" x="118" y="6880" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
           <mxGeometry height="356" width="400" x="193" y="5493" as="geometry" />
@@ -854,11 +854,6 @@
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="hooks" vertex="1">
           <mxGeometry height="36" width="86" x="529" y="6665" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-39" edge="1" parent="1" source="E__8cd5Y3RBJWNSAKqH8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="226.42105263157896" y="6853.158501876028" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="crontab" vertex="1">
           <mxGeometry height="58" width="216" x="118" y="6738" as="geometry" />
         </mxCell>
@@ -878,25 +873,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" value="储存为BMC文件" vertex="1">
-          <mxGeometry height="30" width="111" x="231" y="6813" as="geometry" />
+          <mxGeometry height="30" width="111" x="227" y="6802" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="1" vertex="1">
-          <mxGeometry height="30" width="26" x="124" y="6960" as="geometry" />
-        </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="记录各个应用程序的打印日志，弥补bmc自行设计的日志模块。" vertex="1">
-          <mxGeometry height="30" width="337" x="186" y="6899" as="geometry" />
-        </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="2" vertex="1">
-          <mxGeometry height="30" width="26" x="561.5" y="6897" as="geometry" />
-        </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="完整保存bmc的非AC下电日志，有效避免因日志排查不足问题需要连串口线，客户现场和PA测试的硬件连接不方便的场景" vertex="1">
-          <mxGeometry height="30" width="337" x="598.5" y="6897" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="1" vertex="1">
+          <mxGeometry height="30" width="26" x="129" y="6896" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;方便性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;完整保存bmc的非AC下电日志，有&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;效避免因日志排查不足问题需要连串&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;口线，&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;客户现场和PA测试的硬件连&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;接不方便的场景&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="88" width="310" x="505" y="6941" as="geometry" />
+          <mxGeometry height="99" width="312" x="510" y="6877" as="geometry" />
         </mxCell>
-        <mxCell id="E__8cd5Y3RBJWNSAKqH8-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="2" vertex="1">
-          <mxGeometry height="30" width="26" x="516" y="6957" as="geometry" />
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="2" vertex="1">
+          <mxGeometry height="30" width="26" x="521" y="6893" as="geometry" />
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-49" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="215.95" y="6796" as="sourcePoint" />
+            <mxPoint x="216" y="6858" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
