@@ -851,6 +851,11 @@
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="hooks" vertex="1">
           <mxGeometry height="36" width="86" x="529" y="6665" as="geometry" />
         </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-39" edge="1" parent="1" source="E__8cd5Y3RBJWNSAKqH8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226.42105263157896" y="6853.158501876028" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="crontab" vertex="1">
           <mxGeometry height="58" width="216" x="118" y="6738" as="geometry" />
         </mxCell>
@@ -868,6 +873,9 @@
             <mxPoint x="334" y="6684" as="sourcePoint" />
             <mxPoint x="384" y="6634" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E__8cd5Y3RBJWNSAKqH8-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" value="储存为BMC文件" vertex="1">
+          <mxGeometry height="30" width="111" x="231" y="6813" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
