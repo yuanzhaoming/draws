@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="v_jIjj6gfQj-iaVgs8wT">
-    <mxGraphModel dx="1224" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,13 +336,13 @@
           <mxGeometry height="30" width="60" x="455" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取控制器信息" vertex="1">
-          <mxGeometry height="53" width="214" x="158" y="1955" as="geometry" />
+          <mxGeometry height="53" width="131" x="79" y="1955" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取物理盘信息" vertex="1">
-          <mxGeometry height="53" width="214" x="158" y="2056" as="geometry" />
+          <mxGeometry height="53" width="135" x="273" y="1955" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取逻辑盘信息" vertex="1">
-          <mxGeometry height="53" width="214" x="158" y="2167" as="geometry" />
+          <mxGeometry height="53" width="139" x="471" y="1955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
