@@ -335,8 +335,14 @@
         <mxCell id="u3wmkAW3NZWxTe-wE9P7-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="c" vertex="1">
           <mxGeometry height="30" width="60" x="455" y="1480" as="geometry" />
         </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-6" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取控制器信息" vertex="1">
           <mxGeometry height="53" width="131" x="79" y="1955" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-7" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="获取物理盘信息" vertex="1">
           <mxGeometry height="53" width="135" x="273" y="1955" as="geometry" />
