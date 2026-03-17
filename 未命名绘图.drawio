@@ -744,7 +744,10 @@
           <mxGeometry height="115" width="469" x="505" y="5129" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-267" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="与数渡一起联合调试初版pcie switch，首版采用i2c&amp;nbsp;&lt;div&gt;通信方式，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为其第二代mctp over pcie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;流片提供基础技术支撑。&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="99" width="457" x="515" y="5309" as="geometry" />
+          <mxGeometry height="99" width="457" x="507" y="5326" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-268" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;产品在客户端出现问题后，收集的日志不够bmc做更准备的问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;判断，积极储备2种方案，落地一个方案&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99" width="457" x="505" y="5234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
