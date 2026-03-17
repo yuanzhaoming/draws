@@ -460,7 +460,7 @@
           <mxGeometry height="30" width="683" y="30" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="kernel(mcpt over pcie, mctp over i2c等驱动程序，以及mctp 协议栈)" vertex="1">
-          <mxGeometry height="51" width="578" x="196" y="3735" as="geometry" />
+          <mxGeometry height="51" width="683" x="190" y="3735" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="brcm raid/hba管理" vertex="1">
           <mxGeometry height="60" width="120" x="197" y="3544" as="geometry" />
@@ -474,7 +474,18 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="mctpd" vertex="1">
           <mxGeometry height="60" width="120" x="657" y="3544" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="dbus" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-191" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.006;exitY=0.617;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="X5wu8MR4ORQ3O4vnwKrm-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="3653" />
+              <mxPoint x="434" y="3653" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-192" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="dbus" vertex="1">
           <mxGeometry height="177" width="67" x="804" y="3546" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-182" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-174" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.104;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -503,6 +514,15 @@
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-189" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" target="X5wu8MR4ORQ3O4vnwKrm-179">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-190" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.703;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="X5wu8MR4ORQ3O4vnwKrm-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="3635" />
+              <mxPoint x="585" y="3635" />
+            </Array>
+            <mxPoint x="804" y="3639" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
