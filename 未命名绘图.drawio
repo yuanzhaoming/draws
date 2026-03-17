@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="362" width="462" x="173" y="5486" as="geometry" />
+        </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="184" width="643" x="180" y="4267" as="geometry" />
         </mxCell>
@@ -748,6 +751,27 @@
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-268" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;产品在客户端出现问题后，收集的日志不够bmc做更准备的问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;判断，积极储备2种方案，落地一个方案&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="99" width="457" x="505" y="5234" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-269" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="202" y="5786" as="sourcePoint" />
+            <mxPoint x="557" y="5547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-270" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="541" y="5788" as="sourcePoint" />
+            <mxPoint x="241" y="5553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-271" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
+          <mxGeometry height="80" width="120" x="337" y="5530" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-272" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="DC/PSU" vertex="1">
+          <mxGeometry height="80" width="120" x="217" y="5622" as="geometry" />
+        </mxCell>
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-273" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="IO" vertex="1">
+          <mxGeometry height="80" width="120" x="309.5" y="5714" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
