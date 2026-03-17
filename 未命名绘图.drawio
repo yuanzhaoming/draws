@@ -648,7 +648,7 @@
           <mxGeometry height="56" width="643" y="85" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-242" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="Assets" vertex="1">
-          <mxGeometry height="300" width="650" x="170" y="4687" as="geometry" />
+          <mxGeometry height="300" width="650" x="173" y="4690" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-243" parent="X5wu8MR4ORQ3O4vnwKrm-242" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1">
           <mxGeometry height="62" width="650" as="geometry" />
@@ -676,7 +676,7 @@
             <mxRectangle height="60" width="216" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-249" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="知识面广度与深度: 需要挖掘各个模块，反哺项目上需求的产品化" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-249" parent="X5wu8MR4ORQ3O4vnwKrm-247" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" value="&lt;b&gt;知识面广度与深度:&amp;nbsp;&lt;/b&gt;&lt;div&gt;需要挖掘各个模块，反哺项目上需求的产品化&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="218" x="216" as="geometry">
             <mxRectangle height="60" width="218" as="alternateBounds" />
           </mxGeometry>
