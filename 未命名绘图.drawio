@@ -590,13 +590,13 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
           <mxGeometry height="60" width="120" x="208" y="4134.5" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A厂家PSU" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A厂家盘sata smart信息，厂商信息" vertex="1">
           <mxGeometry height="41" width="121" x="569.5" y="4311" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="B厂家PSU" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="B厂家盘sata smart信息，厂商信息" vertex="1">
           <mxGeometry height="41" width="121" x="569.5" y="4374" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-227" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C厂家PSU" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-227" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C厂家盘sata smart信息，厂商信息" vertex="1">
           <mxGeometry height="41" width="121" x="569.5" y="4436" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-228" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X5wu8MR4ORQ3O4vnwKrm-225" value="">
@@ -623,7 +623,7 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
           <mxGeometry height="30" width="110" x="455.5" y="4369" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自有升级协议" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="smart id A区域" vertex="1">
           <mxGeometry height="30" width="110" x="462.5" y="4415" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BMC" vertex="1">
