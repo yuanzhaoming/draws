@@ -882,7 +882,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wP9vICobJvJU0gWPFJoG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="pldmd/固件更新" vertex="1">
-          <mxGeometry height="60" width="80" x="518" y="3542" as="geometry" />
+          <mxGeometry height="56" width="80" x="518" y="3546" as="geometry" />
         </mxCell>
         <mxCell id="wP9vICobJvJU0gWPFJoG-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.097;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
