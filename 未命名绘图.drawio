@@ -386,7 +386,7 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="获取单个逻辑盘信息" vertex="1">
           <mxGeometry height="47" width="135" x="341" y="2754" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FF66B3;align=center;verticalAlign=middle;rounded=0;" value="单个命令执行平均1s的时间" vertex="1">
+        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FF66B3;align=center;verticalAlign=middle;rounded=0;" value="单个命令执行耗时长，比如1s的时间" vertex="1">
           <mxGeometry height="30" width="141" x="648.5" y="2808" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-18" edge="1" parent="1" source="X5wu8MR4ORQ3O4vnwKrm-8" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;" value="">
