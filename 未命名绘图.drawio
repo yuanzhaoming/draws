@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
   <diagram name="第 1 页" id="v_jIjj6gfQj-iaVgs8wT">
-    <mxGraphModel dx="1008" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;补充日志:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;BMC 自设计日志系统，但是仍然有&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;需求有场景需要查看串口日志。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="309" x="118" y="6880" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
-          <mxGeometry height="356" width="400" x="193" y="5493" as="geometry" />
+          <mxGeometry height="100" width="309" x="174" y="6378" as="geometry" />
         </mxCell>
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="184" width="643" x="180" y="4267" as="geometry" />
@@ -746,139 +743,97 @@
         <mxCell id="X5wu8MR4ORQ3O4vnwKrm-268" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;产品在客户端出现问题后，收集的日志不够bmc做更准备的问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;判断，积极储备2种方案，落地一个方案&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="99" width="457" x="505" y="5234" as="geometry" />
         </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-269" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="217" y="5843" as="sourcePoint" />
-            <mxPoint x="554" y="5498" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-270" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="571" y="5838" as="sourcePoint" />
-            <mxPoint x="213" y="5504" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-271" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="BMC" vertex="1">
-          <mxGeometry height="80" width="120" x="337" y="5530" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-272" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="DC/PSU" vertex="1">
-          <mxGeometry height="80" width="120" x="217" y="5622" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-273" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="IO" vertex="1">
-          <mxGeometry height="80" width="120" x="328" y="5729" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-276" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="开源社区" vertex="1">
-          <mxGeometry height="80" width="120" x="441.5" y="5627" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-279" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开发PSU固件升级，发现BMC有需要适配不同厂商的可能性，推动使用标准升级文档" vertex="1">
-          <mxGeometry height="49" width="286" x="669" y="5508" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-282" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="21" width="14" x="648.5" y="5515.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="review并提出社区代码的优化意见。" vertex="1">
-          <mxGeometry height="49" width="224" x="658" y="5580.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-285" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="21" width="14" x="652" y="5594.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-286" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="沟通并完善io 部件信息列表" vertex="1">
-          <mxGeometry height="49" width="163" x="672" y="5661" as="geometry" />
-        </mxCell>
-        <mxCell id="X5wu8MR4ORQ3O4vnwKrm-287" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="21" width="14" x="655" y="5673" as="geometry" />
-        </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;国产switch导入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;辅助mctp over i2c 初期验证保证流片mctp over pcie功能性无问题(&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;完成导入&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="148" width="185" x="102" y="6005" as="geometry" />
+          <mxGeometry height="148" width="185" x="180" y="5531" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-2" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="175" y="6020" as="geometry" />
+          <mxGeometry height="34" width="34" x="253" y="5546" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;模块通信问题&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;辅助&lt;/font&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;追踪流程以及提供思路&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="148" width="185" x="344" y="6005" as="geometry" />
+          <mxGeometry height="148" width="185" x="422" y="5531" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-10" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="417" y="6020" as="geometry" />
+          <mxGeometry height="34" width="34" x="495" y="5546" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;bug修复&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;代码review，提供建议并发现潜在问题占比20%&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="148" width="185" x="586" y="6003" as="geometry" />
+          <mxGeometry height="148" width="185" x="664" y="5529" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-12" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/analytics/analytics.svg;" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="659" y="6018" as="geometry" />
+          <mxGeometry height="34" width="34" x="737" y="5544" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PSU&lt;/font&gt;&lt;div&gt;建议与推动psu固件升级标准化&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="313" x="105" y="6273" as="geometry" />
+          <mxGeometry height="100" width="313" x="168.5" y="5791" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;01&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="48" width="48" x="122" y="6294" as="geometry" />
+          <mxGeometry height="48" width="48" x="185.5" y="5812" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IO&lt;/font&gt;&lt;div&gt;沟通完善部件信息&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="313" x="510" y="6273" as="geometry" />
+          <mxGeometry height="100" width="313" x="573.5" y="5791" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;02&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="48" width="48" x="527" y="6294" as="geometry" />
+          <mxGeometry height="48" width="48" x="590.5" y="5812" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 51, 153);&quot;&gt;开源社区&lt;/font&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;review code 并提出修改意见，基本被采纳&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="313" x="102" y="6426" as="geometry" />
+          <mxGeometry height="100" width="313" x="165.5" y="5944" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;03&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="48" width="48" x="119" y="6447" as="geometry" />
+          <mxGeometry height="48" width="48" x="182.5" y="5965" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;BMC/PA&lt;/span&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 构建模块测试文档，对内对外输出&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="313" x="510" y="6426" as="geometry" />
+          <mxGeometry height="100" width="313" x="573.5" y="5944" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;04&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="48" width="48" x="527" y="6447" as="geometry" />
+          <mxGeometry height="48" width="48" x="590.5" y="5965" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="apps" vertex="1">
-          <mxGeometry height="58" width="216" x="117" y="6654" as="geometry" />
+          <mxGeometry height="58" width="216" x="173" y="6152" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="kernel&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" vertex="1">
-          <mxGeometry height="58" width="216" x="406" y="6654" as="geometry" />
+          <mxGeometry height="58" width="216" x="462" y="6152" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART TX" vertex="1">
-          <mxGeometry height="30" width="60" x="662.5" y="6646" as="geometry" />
+          <mxGeometry height="30" width="60" x="718.5" y="6144" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-35" edge="1" parent="1" source="E__8cd5Y3RBJWNSAKqH8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E__8cd5Y3RBJWNSAKqH8-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="uart proc fs" vertex="1">
-          <mxGeometry height="36" width="86" x="529" y="6665" as="geometry" />
+          <mxGeometry height="36" width="86" x="585" y="6163" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="crontab" vertex="1">
-          <mxGeometry height="58" width="216" x="118" y="6738" as="geometry" />
+          <mxGeometry height="58" width="216" x="174" y="6236" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" value="文件系统接口" vertex="1">
-          <mxGeometry height="30" width="130" x="381" y="6765" as="geometry" />
+          <mxGeometry height="30" width="130" x="437" y="6263" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-37" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="622" y="6684" as="sourcePoint" />
-            <mxPoint x="773" y="6684" as="targetPoint" />
+            <mxPoint x="678" y="6182" as="sourcePoint" />
+            <mxPoint x="829" y="6182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-38" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="E__8cd5Y3RBJWNSAKqH8-28" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="334" y="6684" as="sourcePoint" />
-            <mxPoint x="384" y="6634" as="targetPoint" />
+            <mxPoint x="390" y="6182" as="sourcePoint" />
+            <mxPoint x="440" y="6132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" value="储存为BMC文件" vertex="1">
-          <mxGeometry height="30" width="111" x="227" y="6802" as="geometry" />
+          <mxGeometry height="30" width="111" x="283" y="6300" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="1" vertex="1">
-          <mxGeometry height="30" width="26" x="129" y="6896" as="geometry" />
+          <mxGeometry height="30" width="26" x="185" y="6394" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;方便性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;完整保存bmc的非AC下电日志，有&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;效避免因日志排查不足问题需要连串&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;口线，&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;客户现场和PA测试的硬件连&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;接不方便的场景&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="99" width="312" x="510" y="6877" as="geometry" />
+          <mxGeometry height="99" width="312" x="566" y="6375" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="2" vertex="1">
-          <mxGeometry height="30" width="26" x="521" y="6893" as="geometry" />
+          <mxGeometry height="30" width="26" x="577" y="6391" as="geometry" />
         </mxCell>
         <mxCell id="E__8cd5Y3RBJWNSAKqH8-49" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="215.95" y="6796" as="sourcePoint" />
-            <mxPoint x="216" y="6858" as="targetPoint" />
+            <mxPoint x="271.95" y="6294" as="sourcePoint" />
+            <mxPoint x="272" y="6356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wP9vICobJvJU0gWPFJoG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="pldmd/固件更新" vertex="1">
