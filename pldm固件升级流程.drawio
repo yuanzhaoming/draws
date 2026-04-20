@@ -28,6 +28,9 @@
         <mxCell id="SPr2eVWjYSi-WUsxWzue-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#3b3b3b&quot; face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;watch 文件 /tmp/images&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="380" x="80" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="SPr2eVWjYSi-WUsxWzue-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="image_manager_main.cpp" vertex="1">
+          <mxGeometry height="30" width="170" x="480" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
