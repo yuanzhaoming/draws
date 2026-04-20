@@ -19,6 +19,12 @@
         <mxCell id="SPr2eVWjYSi-WUsxWzue-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="启动程序" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="SPr2eVWjYSi-WUsxWzue-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(59, 59, 59); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; white-space: pre;&quot;&gt;VERSION_BUSNAME&lt;/span&gt;: xyz.openbmc_project.Software.Version," vertex="1">
+          <mxGeometry height="40" width="380" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SPr2eVWjYSi-WUsxWzue-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(59, 59, 59); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; white-space: pre;&quot;&gt;SOFTWARE_OBJPATH&lt;/span&gt;: /xyz/openbmc_project/software&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="380" x="80" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
