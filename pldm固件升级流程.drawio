@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SPr2eVWjYSi-WUsxWzue-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="260" x="120" y="120" as="geometry" />
+        <mxCell id="SPr2eVWjYSi-WUsxWzue-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ExecStartPre=/bin/sh -c &#39;mkdir -p /tmp/images&#39;" vertex="1">
+          <mxGeometry height="40" width="380" x="80" y="120" as="geometry" />
         </mxCell>
         <mxCell id="SPr2eVWjYSi-WUsxWzue-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="服务:&amp;nbsp;xyz.openbmc_project.Software.Version" vertex="1">
           <mxGeometry height="30" width="280" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SPr2eVWjYSi-WUsxWzue-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="创建目录/tmp/images" vertex="1">
+          <mxGeometry height="30" width="140" x="470" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
