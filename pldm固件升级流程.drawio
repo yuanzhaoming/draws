@@ -147,7 +147,7 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="问题1: 默认为什么会有接口/xyz/openbmc_project/software/ActiveBMC&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="450" x="900" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="HkRpolEkUyltRIYyZvtv-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="问题1: 默认为什么会有接口/xyz/openbmc_project/software/ActiveBMC&amp;nbsp;" vertex="1">
+        <mxCell id="HkRpolEkUyltRIYyZvtv-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="问题1: /tmp/images下有文件之后再放文件，不会触发文件拷贝等动作" vertex="1">
           <mxGeometry height="30" width="450" x="80" y="920" as="geometry" />
         </mxCell>
       </root>
