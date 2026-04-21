@@ -103,7 +103,7 @@
           <mxGeometry height="40" width="340" x="800" y="120" as="geometry" />
         </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="服务文件xyz.openbmc_project.Software.BMC.Updater.service.in" vertex="1">
-          <mxGeometry height="30" width="280" x="1120" y="70" as="geometry" />
+          <mxGeometry height="30" width="300" x="1120" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
