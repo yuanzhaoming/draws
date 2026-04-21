@@ -156,6 +156,9 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;verifyAndCreateObjects&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="340" x="920" y="600" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;添加dbus 路径 /xyz/openbmc_project/software/514ef4ef&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="920" y="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
