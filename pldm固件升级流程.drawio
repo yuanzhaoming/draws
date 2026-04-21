@@ -237,6 +237,9 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="download_manager.cpp" vertex="1">
           <mxGeometry height="30" width="140" x="2760" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="文件方式升级pldm 固件" vertex="1">
+          <mxGeometry height="30" width="640" x="2400" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
