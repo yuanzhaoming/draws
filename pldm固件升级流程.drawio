@@ -174,8 +174,11 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="启动程序" vertex="1">
           <mxGeometry height="30" width="60" x="2014" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="HkRpolEkUyltRIYyZvtv-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="download_manager_main" vertex="1">
-          <mxGeometry height="30" width="180" x="2014" y="180" as="geometry" />
+        <mxCell id="HkRpolEkUyltRIYyZvtv-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="download_manager_main.cpp" vertex="1">
+          <mxGeometry height="30" width="180" x="2014" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;注册服务&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="316" x="1654" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
