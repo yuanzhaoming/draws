@@ -241,7 +241,7 @@
           <mxGeometry height="30" width="640" x="2400" y="30" as="geometry" />
         </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="调用&lt;div&gt;busctl set-property xyz.openbmc_project.PLDM /xyz/openbmc_project/software/1776752427&amp;nbsp;xyz.openbmc_project.Software.Activation RequestedActivation s &quot;xyz.openbmc_project.Software.Activation.RequestedActivations.Active&quot;升级固件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="520" x="2400" y="430" as="geometry" />
+          <mxGeometry height="110" width="520" x="2400" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
