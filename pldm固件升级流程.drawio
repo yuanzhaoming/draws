@@ -81,7 +81,7 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="生成dbus 下固件目录与信息节点" vertex="1">
           <mxGeometry height="30" width="180" x="440" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="HkRpolEkUyltRIYyZvtv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#3b3b3b&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 10px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;设置&lt;/span&gt;&lt;span style=&quot;font-size: 10px; white-space: pre;&quot;&gt;xyz.openbmc_project.Software.FlashOperation属性UpdateWaitFlag=0&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="HkRpolEkUyltRIYyZvtv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font color=&quot;#3b3b3b&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 10px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;设置&lt;/span&gt;&lt;span style=&quot;font-size: 10px; white-space: pre;&quot;&gt;xyz.openbmc_project.Software.FlashOperation属性UpdateWaitFlag=0&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="350" x="460" y="680" as="geometry" />
         </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="失败" vertex="1">
