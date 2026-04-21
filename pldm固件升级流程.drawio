@@ -99,6 +99,9 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="服务:&amp;nbsp;xyz.openbmc_project.Software.BMC.Updater" vertex="1">
           <mxGeometry height="30" width="280" x="800" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-18" edge="1" parent="1" source="HkRpolEkUyltRIYyZvtv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRpolEkUyltRIYyZvtv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;/usr/libexec/phosphor-code-mgmt/phosphor-image-updater&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="340" x="800" y="120" as="geometry" />
         </mxCell>
@@ -108,11 +111,26 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="启动程序" vertex="1">
           <mxGeometry height="30" width="60" x="1160" y="125" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-19" edge="1" parent="1" source="HkRpolEkUyltRIYyZvtv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRpolEkUyltRIYyZvtv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;监听信号/xyz/openbmc_project/software的InterfacesAdded事件，回调createActivation&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="340" x="800" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-20" edge="1" parent="1" source="HkRpolEkUyltRIYyZvtv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRpolEkUyltRIYyZvtv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;监听信号/xyz/openbmc_project/software的InterfacesRemoved，回调deleteActivation&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="340" x="800" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-21" edge="1" parent="1" source="HkRpolEkUyltRIYyZvtv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HkRpolEkUyltRIYyZvtv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;获取文件/run/media/slot 的值&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="800" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;设置inventory&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="800" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
