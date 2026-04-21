@@ -74,7 +74,7 @@
           <mxGeometry height="40" width="340" x="80" y="840" as="geometry" />
         </mxCell>
         <mxCell id="HkRpolEkUyltRIYyZvtv-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="生成dbus 下固件目录与信息节点" vertex="1">
-          <mxGeometry height="30" width="180" x="440" y="765" as="geometry" />
+          <mxGeometry height="30" width="180" x="440" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
