@@ -93,6 +93,9 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="image_manager.cpp" vertex="1">
           <mxGeometry height="30" width="130" x="440" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="服务文件xyz.openbmc_project.Software.Version.service.in" vertex="1">
+          <mxGeometry height="30" width="280" x="440" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
