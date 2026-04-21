@@ -108,6 +108,12 @@
         <mxCell id="HkRpolEkUyltRIYyZvtv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="启动程序" vertex="1">
           <mxGeometry height="30" width="60" x="1160" y="125" as="geometry" />
         </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;监听信号/xyz/openbmc_project/software的InterfacesAdded事件，回调createActivation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="800" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HkRpolEkUyltRIYyZvtv-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;监听信号/xyz/openbmc_project/software的InterfacesRemoved，回调deleteActivation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="340" x="800" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
